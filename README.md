@@ -1,0 +1,2 @@
+# KB16280_UltraGridGetFirstVisibleRow
+UltraGrid - 現在表示されている先頭の行を取得する方法
